@@ -1,0 +1,22 @@
+{
+    "name": "I2C LCD1602 demo",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Environment_IoT": "github:tinkertanker/pxt-iot-environment-kit#518cdced138168edadfee9484d89ae1e98f89a71"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
